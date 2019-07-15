@@ -4,3 +4,4 @@ bqplot
 numpy
 pandas
 ipyleaflet
+voila-vuetify
